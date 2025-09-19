@@ -72,4 +72,4 @@ npm start
 
 The live version of this project is deployed on Vercel. You can access it here:  
 
-[https://your-vercel-deployment-url.vercel.app]
+[https://simplifi-assignment.vercel.app/]
